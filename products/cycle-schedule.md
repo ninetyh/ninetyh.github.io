@@ -4,7 +4,7 @@ layout: post
 
 Lets you efficiently create on-call calendars based on your team
 
-![Cycle Schedule](/images/cycle-schedule.png)
+![Cycle Schedule](/images/cycle-schedule.jpg)
 
 ### Features
 

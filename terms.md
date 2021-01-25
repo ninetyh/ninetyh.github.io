@@ -4,6 +4,8 @@ title: Terms
 permalink: /terms/
 ---
 
+# Terms and Conditions
+
 These Terms and Conditions outline the rules and regulations for the use of our Websites.
 
 By accessing our Websites we assume you accept these Terms and Conditions in full. Do not continue to use our Websites if you do not accept all of the Terms and Conditions stated on this page.

@@ -1,5 +1,6 @@
 ---
 layout: post
+icon: /images/on-call-schedule-logo_200x200.png
 ---
 
 Lets you efficiently create on-call calendars based on your team
